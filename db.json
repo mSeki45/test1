@@ -1,7 +1,11 @@
-{{
-  "KeyNo": 123456,
-  "Uid": "abc123",
-  "Status": 1,
-  "ResultCode": 0,
-  "Message": "正常終了"
-}}
+{
+  "user":[
+    {  
+      "KeyNo": 123456,
+      "Uid": "abc123",
+      "Status": 1,
+      "ResultCode": 0,
+      "Message": "正常終了"
+    }
+  ]
+}
