@@ -1,11 +1,18 @@
 {
   "user":[
     {  
-      "KeyNo": 123456,
-      "Uid": "abc123",
-      "Status": 1,
-      "ResultCode": 0,
-      "Message": "正常終了"
+      "Key_no": 123456,
+      "uid": "abc123",
+      "status": 1,
+      "result_code": 0,
+      "message": "正常終了"
+    },
+    {
+      "Key_no": 234567,
+      "uid": "abc124",
+      "status": 1,
+      "result_code": 0,
+      "message": "正常終了"
     }
   ]
 }
