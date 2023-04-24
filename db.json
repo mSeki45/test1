@@ -1,7 +1,7 @@
 {
-"key_no":123456,
-"uid":"abc123",
-"status":1,
-"result_code":0,
-"message":"success"
+  "KeyNo": 123456,
+  "Uid": "abc123",
+  "Status": 1,
+  "ResultCode": 0,
+  "Message": "正常終了"
 }
